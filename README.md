@@ -13,18 +13,7 @@ This repository contains the source code for a 2D adventure game built with the 
 - *Inventory System:* Manage items and equipment to aid in your journey.
 - *Dialogue System:* Interact with NPCs to uncover the game's lore and receive hints.
 
-## Getting Started
-1. *Clone the repository:*
-   
-   git clone https://github.com/yourusername/2d-adventure-game.git
-   
-2. *Open the project in Godot Engine:*
-   - Ensure you have Godot Engine installed (version X.X or higher).
-   - Open the project.godot file in the Godot editor.
-
-3. *Run the game:*
-   - Press the play button in the Godot editor to start the game.
-
+## download link :https://tohidulislamshuvo.itch.io/the-pixel-brawl-arena
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
